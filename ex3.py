@@ -6,3 +6,4 @@ def happy_day(day):
 
 print(happy_day("sunday"))
 print(happy_day("monday"))
+print("test")
